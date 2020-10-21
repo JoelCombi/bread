@@ -1,0 +1,19 @@
+{
+  "name": "bread",
+  "version": "1.0.0",
+  "description": "Website for my bread disasters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Bread"
+  ],
+  "author": "Joel Combi",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.13",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  }
+}
