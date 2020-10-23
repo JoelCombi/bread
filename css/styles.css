@@ -1,2 +1,9 @@
 body {
-  background: #6d3fd8; }
+  margin: 0 auto;
+  background: #4d16da;
+  color: pink; }
+
+.home-nav {
+  padding: 0;
+  height: 60px;
+  background: white; }

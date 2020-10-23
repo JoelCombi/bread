@@ -1,5 +1,13 @@
-$color: rgb(109, 63, 216);
+$color: rgb(77, 22, 218);
 
 body {
+    margin: 0 auto;
     background: $color;
+    color: pink;
+}
+
+.home-nav {
+    padding: 0;
+    height: 60px;
+    background: white;
 }
